@@ -1,0 +1,21 @@
+/* === QPushButton === */
+QPushButton {
+border: 1px solid #333333;
+padding: 4px;
+min-width: 65px;
+min-height: 12px;
+}
+QPushButton:hover {
+background-color: #333333;
+border-color: #444444;
+}
+QPushButton:pressed {
+background-color: #111111;
+border-color: #333333;
+color: yellow;
+}
+QPushButton:disabled {
+color: #333333;
+}
+QFrame {background-color:rgb(0, 255, 0)}
+QTextBrowser {background-color:rgb(255, 0, 0)}

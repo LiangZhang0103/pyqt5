@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "D:\\ProgramData\\Anaconda3\\envs\\qt5\\python.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0",
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=PyQt5",
+        "--disable-msg=C0103",
+    ],
+    // "python.linting.flake8Enabled": true,
+    // "python.formatting.provider": "yapf",
+    "python.autoComplete.addBrackets": true,
+    // "python.autoComplete.extraPaths": [
+    //     "D:\\ProgramData\\Anaconda3\\envs\\qt5\\Lib\\site-packages\\PyQt5",
+    // ],
+}
