@@ -36,7 +36,7 @@ class SortedDict(dict):
 
 class AddressBook(QWidget):
     def __init__(self, parent=None):
-        super(AddressBook, self).__iter__(parent)
+        super(AddressBook, self).__init__(parent)
 
         self.contacts = SortedDict()
         self.oldName = ''
@@ -63,7 +63,7 @@ class AddressBook(QWidget):
 
         self.addButton.clicked.connect(self.addContact)
         self.submitButton.clicked.connect(self.submitContact)
-        self.cancelButton,clicked.connect(self.cancel)
+        self.cancelButton.clicked.connect(self.cancel)
 
         buttonLayout1 = QVBoxLayout()
         buttonLayout1.addWidget(self.addButton, Qt.AlignTop)

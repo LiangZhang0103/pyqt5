@@ -47,7 +47,7 @@ from PyQt5.QtWidgets import QGridLayout, QLabel, QLineEdit, QMessageBox, QPushBu
 
 
 class SortedDict(dict):
-    class Iterator(object):
+    class Iterator(object):                     # 迭代器
         def __init__(self, sorted_dict):
             self._dict = sorted_dict
             self._keys = sorted(self._dict.keys())
@@ -69,7 +69,7 @@ class SortedDict(dict):
 
         __next__ = next
 
-    def __iter__(self):
+    def __iter__(self):                     # 可迭代对象
         return SortedDict.Iterator(self)
 
     iterkeys = __iter__
