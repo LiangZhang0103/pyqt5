@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e3e5077-1668-439d-b9e0-78ca5a0b2df3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/part3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch14/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch14/part2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/tutorials/addressbook/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/tutorials/addressbook/part2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +42,7 @@
     <SUITE FILE_PATH="coverage/pyqt5$ch02_7.coverage" NAME="ch02_7 Coverage Results" MODIFIED="1544286415383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
     <SUITE FILE_PATH="coverage/pyqt5$ch02_1.coverage" NAME="ch02_1 Coverage Results" MODIFIED="1544278347148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
     <SUITE FILE_PATH="coverage/pyqt5$part12_1.coverage" NAME="part12_1 Coverage Results" MODIFIED="1546181869389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch12" />
+    <SUITE FILE_PATH="coverage/pyqt5$part3.coverage" NAME="part3 Coverage Results" MODIFIED="1547825692000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/tutorials/addressbook" />
     <SUITE FILE_PATH="coverage/pyqt5$ch06_1.coverage" NAME="ch06_1 Coverage Results" MODIFIED="1545052872832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
     <SUITE FILE_PATH="coverage/pyqt5$ch05_4.coverage" NAME="ch05_4 Coverage Results" MODIFIED="1544758779759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
     <SUITE FILE_PATH="coverage/pyqt5$ch06_2.coverage" NAME="ch06_2 Coverage Results" MODIFIED="1545055157802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
@@ -59,6 +58,7 @@
     <SUITE FILE_PATH="coverage/pyqt5$part12_4.coverage" NAME="part12_4 Coverage Results" MODIFIED="1546394449396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch12" />
     <SUITE FILE_PATH="coverage/pyqt5$ch09_2.coverage" NAME="ch09_2 Coverage Results" MODIFIED="1545284385057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09" />
     <SUITE FILE_PATH="coverage/pyqt5$ch11_5.coverage" NAME="ch11_5 Coverage Results" MODIFIED="1546077419092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11" />
+    <SUITE FILE_PATH="coverage/pyqt5$part3__1_.coverage" NAME="part3 (1) Coverage Results" MODIFIED="1547825657458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch14" />
     <SUITE FILE_PATH="coverage/pyqt5$ch08_7.coverage" NAME="ch08_7 Coverage Results" MODIFIED="1545278571500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08" />
   </component>
   <component name="DatabaseView">
@@ -79,13 +79,40 @@
     <favorites_list name="pyqt5" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/examples/tutorials/addressbook/part3.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.4339019">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/examples/tutorials/addressbook/part3.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="492">
+                  <caret line="238" column="40" lean-forward="true" selection-start-line="238" selection-start-column="40" selection-end-line="238" selection-end-column="40" />
+                  <folding>
+                    <element signature="e#2058#2085#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ch14/part3.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+                  <folding>
+                    <element signature="e#46#221#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -158,6 +185,7 @@
         <option value="$PROJECT_DIR$/ch14/part1.py" />
         <option value="$PROJECT_DIR$/examples/tutorials/addressbook/part2.py" />
         <option value="$PROJECT_DIR$/ch14/part2.py" />
+        <option value="$PROJECT_DIR$/ch14/part3.py" />
       </list>
     </option>
   </component>
@@ -231,29 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.part2">
-    <configuration name="Ui_digit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyqt5" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch13/part1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch13/part1/Ui_digit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.part3">
     <configuration name="part1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyqt5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -320,7 +326,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="widgets_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="part3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyqt5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -328,12 +334,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch13/widgets_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch14/part3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="part3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyqt5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/tutorials/addressbook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/tutorials/addressbook/part3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,19 +371,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.widgets_example" />
-      <item itemvalue="Python.Ui_digit" />
       <item itemvalue="Python.part1" />
       <item itemvalue="Python.part1 (1)" />
       <item itemvalue="Python.part2" />
+      <item itemvalue="Python.part3" />
+      <item itemvalue="Python.part3 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.part3" />
+        <item itemvalue="Python.part3 (1)" />
         <item itemvalue="Python.part2" />
         <item itemvalue="Python.part1 (1)" />
         <item itemvalue="Python.part1" />
-        <item itemvalue="Python.Ui_digit" />
-        <item itemvalue="Python.widgets_example" />
       </list>
     </recent_temporary>
   </component>
@@ -395,12 +423,12 @@
       <workItem from="1546911445531" duration="170000" />
       <workItem from="1547044704735" duration="16000" />
       <workItem from="1547275448515" duration="775000" />
-      <workItem from="1547776288049" duration="1797000" />
+      <workItem from="1547776288049" duration="11798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108069000" />
+    <option name="totallyTimeSpent" value="118070000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -414,12 +442,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837488" visible="true" weight="0.21002132" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837488" weight="0.21002132" />
       <window_info id="Structure" order="1" sideWeight="0.5016251" side_tool="true" weight="0.21320754" />
       <window_info id="Favorites" order="2" sideWeight="0.5005417" side_tool="true" weight="0.21321961" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.21149674" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.21149674" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23632385" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -453,13 +481,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-108725755/PyQt5/QtGui/QPen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="127" column="8" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-108725755/PyQt5/QtGui/QPainter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -867,7 +888,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/tutorials/addressbook/part3.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="238" column="40" lean-forward="true" selection-start-line="238" selection-start-column="40" selection-end-line="238" selection-end-column="40" />
+          <folding>
+            <element signature="e#2058#2085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch14/part3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <folding>
+            <element signature="e#46#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
