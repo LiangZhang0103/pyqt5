@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e3e5077-1668-439d-b9e0-78ca5a0b2df3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch14/part3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/part1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,40 +80,17 @@
     <favorites_list name="pyqt5" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4339019">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/examples/tutorials/addressbook/part3.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="492">
-                  <caret line="238" column="40" lean-forward="true" selection-start-line="238" selection-start-column="40" selection-end-line="238" selection-end-column="40" />
-                  <folding>
-                    <element signature="e#2058#2085#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ch14/part3.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
-                  <folding>
-                    <element signature="e#46#221#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch15/part1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="103" selection-start-line="3" selection-start-column="103" selection-end-line="3" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch02/ch02_1.py" />
         <option value="$PROJECT_DIR$/ch01/helloworld_03.py" />
         <option value="$PROJECT_DIR$/ch02/ch02_2.py" />
         <option value="$PROJECT_DIR$/ch02/ch02_3.py" />
@@ -186,11 +163,12 @@
         <option value="$PROJECT_DIR$/examples/tutorials/addressbook/part2.py" />
         <option value="$PROJECT_DIR$/ch14/part2.py" />
         <option value="$PROJECT_DIR$/ch14/part3.py" />
+        <option value="$PROJECT_DIR$/ch15/part1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="807" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="812" />
     <option name="width" value="1120" />
     <option name="height" value="1047" />
   </component>
@@ -200,7 +178,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,17 +188,17 @@
             <path>
               <item name="pyqt5" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyqt5" type="462c0819:PsiDirectoryNode" />
-              <item name="ch14" type="462c0819:PsiDirectoryNode" />
+              <item name="ch15" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pyqt5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyqt5" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -424,11 +401,15 @@
       <workItem from="1547044704735" duration="16000" />
       <workItem from="1547275448515" duration="775000" />
       <workItem from="1547776288049" duration="11798000" />
+      <workItem from="1547902137231" duration="46000" />
+      <workItem from="1547902198237" duration="1164000" />
+      <workItem from="1547904172519" duration="34000" />
+      <workItem from="1548121622668" duration="575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118070000" />
+    <option name="totallyTimeSpent" value="119889000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,9 +421,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="812" y="0" width="1120" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837488" weight="0.21002132" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837488" weight="0.3443396" />
       <window_info id="Structure" order="1" sideWeight="0.5016251" side_tool="true" weight="0.21320754" />
       <window_info id="Favorites" order="2" sideWeight="0.5005417" side_tool="true" weight="0.21321961" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -481,13 +463,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-108725755/PyQt5/QtGui/QPainter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="140" column="8" selection-start-line="140" selection-start-column="8" selection-end-line="140" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch08/ch08_4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -889,8 +864,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/tutorials/addressbook/part3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="238" column="40" lean-forward="true" selection-start-line="238" selection-start-column="40" selection-end-line="238" selection-end-column="40" />
+        <state relative-caret-position="493">
+          <caret line="238" column="40" selection-start-line="238" selection-start-column="40" selection-end-line="238" selection-end-column="40" />
           <folding>
             <element signature="e#2058#2085#0" expanded="true" />
           </folding>
@@ -899,11 +874,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch14/part3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        <state relative-caret-position="133">
+          <caret line="64" selection-start-line="64" selection-end-line="65" />
           <folding>
             <element signature="e#46#221#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch15/part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="103" selection-start-line="3" selection-start-column="103" selection-end-line="3" selection-end-column="103" />
         </state>
       </provider>
     </entry>
